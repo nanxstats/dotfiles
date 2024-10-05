@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 20,
+    "editor.fontFamily": "'SF Mono', 'Fira Code', Hasklig, 'IBM Plex Mono', Inconsolata, 'JetBrains Mono', 'Monaspace Argon', 'Source Code Pro', monospace",
+    // "editor.fontLigatures": "'calt', 'liga'", // Hasklig, JetBrains Mono
+    // "editor.fontLigatures": "'calt', 'liga', 'cv02', 'ss03'", // Fira Code
+    // "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss05', 'ss07'", // Monaspace Argon
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordWrap": "on",
+    "editor.inlineSuggest.enabled": true,
+    "editor.copyWithSyntaxHighlighting": false,
+    "workbench.startupEditor": "none",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.colorTheme": "textmate.rstheme",
+    "update.mode": "none",
+    "telemetry.telemetryLevel": "off"
+}

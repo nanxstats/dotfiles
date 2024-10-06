@@ -10,6 +10,8 @@
     "editor.wordWrap": "on",
     "editor.inlineSuggest.enabled": true,
     "editor.copyWithSyntaxHighlighting": false,
+    "terminal.integrated.fontFamily": "'Iosevka Term', monospace",
+    "terminal.integrated.fontSize": 20,
     "workbench.startupEditor": "none",
     "workbench.editor.empty.hint": "hidden",
     "workbench.colorTheme": "textmate.rstheme",

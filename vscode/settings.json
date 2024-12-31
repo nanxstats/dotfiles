@@ -3,6 +3,7 @@
     "editor.fontFamily": "'SF Mono', 'Fira Code', 'Geist Mono', Hasklig, 'IBM Plex Mono', Inconsolata, 'JetBrains Mono', 'Monaspace Argon', 'Source Code Pro', 'Spline Sans Mono', monospace",
     // "editor.fontLigatures": "'calt', 'liga'", // Geist Mono, Hasklig, JetBrains Mono
     // "editor.fontLigatures": "'calt', 'liga', 'cv02', 'ss03'", // Fira Code
+    // "editor.fontLigatures": "'calt', 'liga', 'ss03', 'ss04'", // Geist Mono
     // "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss05', 'ss07'", // Monaspace Argon
     // "editor.fontLigatures": "'calt', 'liga', 'ss07'", // Spline Sans Mono
     "editor.rulers": [

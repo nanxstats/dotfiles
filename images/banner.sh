@@ -9,5 +9,5 @@ magick -size 2048x734 \
   -annotate +0-50 'nanxstats/dotfiles' \
   -pointsize 40 \
   -font 'Cascadia-Code-SemiBold' \
-  -annotate +0+100 'Homebrew · VS Code' \
+  -annotate +0+100 'Homebrew · VS Code · Ghostty' \
   png:- | pngquant - --force --output images/banner.png

@@ -1,10 +1,10 @@
 {
     "editor.fontSize": 22,
-    "editor.fontFamily": "'JetBrains Mono', 'Berkeley Mono', 'Cascadia Code', 'Fira Code', 'Geist Mono', Hasklig, 'IBM Plex Mono Text', Inconsolata, 'Monaspace Argon', 'SF Mono', 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'JetBrains Mono', 'Berkeley Mono', 'Cascadia Code', 'Fira Code', 'Geist Mono', Hasklig, 'IBM Plex Mono Text', Inconsolata, 'Ligalex Mono', 'Monaspace Argon', 'SF Mono', 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": "'calt', 'liga'", // Geist Mono, Hasklig, JetBrains Mono
     // "editor.fontLigatures": "'calt', 'liga', 'cv02', 'ss03'", // Fira Code
     // "editor.fontLigatures": "'calt', 'liga', 'ss03', 'ss04'", // Geist Mono
-    // "editor.fontLigatures": "'calt', 'liga', 'ss02', 'ss03'", // IBM Plex Mono Text
+    // "editor.fontLigatures": "'calt', 'liga', 'ss02', 'ss03'", // IBM Plex Mono Text, Ligalex Mono (Text)
     // "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss05', 'ss07'", // Monaspace Argon
     "editor.rulers": [
         80

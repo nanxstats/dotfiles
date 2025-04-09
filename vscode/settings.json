@@ -5,7 +5,7 @@
     // "editor.fontLigatures": "'calt', 'liga', 'cv02', 'ss03'", // Fira Code
     // "editor.fontLigatures": "'calt', 'liga', 'ss03', 'ss04'", // Geist Mono
     // "editor.fontLigatures": "'calt', 'liga', 'ss02', 'ss03'", // IBM Plex Mono Text, Ligalex Mono (Text)
-    // "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss05', 'ss07'", // Monaspace Argon
+    // "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss05', 'ss07', 'cv10'", // Monaspace Argon
     "editor.rulers": [
         80
     ],

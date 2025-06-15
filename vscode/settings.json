@@ -12,6 +12,7 @@
     "editor.wordWrap": "on",
     "editor.inlineSuggest.enabled": true,
     "editor.copyWithSyntaxHighlighting": false,
+    "editor.unicodeHighlight.nonBasicASCII": true,
     "terminal.integrated.fontFamily": "'Iosevka Term', monospace",
     "terminal.integrated.fontSize": 20,
     "workbench.startupEditor": "none",

@@ -1,6 +1,6 @@
 {
     "editor.fontSize": 22,
-    "editor.fontFamily": "'Berkeley Mono', 'Cascadia Code', 'Fira Code', 'Geist Mono', 'Google Sans Code', Hasklig, 'IBM Plex Mono Text', Inconsolata, 'Iosevka Extended', 'JetBrains Mono', 'Ligalex Mono', 'Monaspace Argon', 'MonoLisa Variable', 'SF Mono', 'Source Code Pro', 'TheSansMono Office', 'Zed Plex Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'JetBrains Mono', 'Berkeley Mono', 'Cascadia Code', 'Fira Code', 'Geist Mono', 'Google Sans Code', Hasklig, 'IBM Plex Mono Text', Inconsolata, 'Iosevka Extended', 'Ligalex Mono', 'Monaspace Argon', 'MonoLisa Variable', 'SF Mono', 'Source Code Pro', 'TheSansMono Office', 'Zed Plex Mono', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": "'calt', 'liga'", // All others supporting coding ligatures
     // "editor.fontLigatures": "'calt', 'liga', 'lnum', 'zero', 'cv01'", // TheSansMono
     // "editor.fontLigatures": "'calt', 'liga', 'cv02', 'ss03'", // Fira Code
@@ -15,8 +15,10 @@
     "editor.inlineSuggest.enabled": true,
     "editor.copyWithSyntaxHighlighting": false,
     "editor.unicodeHighlight.nonBasicASCII": true,
-    "terminal.integrated.fontFamily": "'Iosevka Term', monospace",
-    "terminal.integrated.fontSize": 20,
+    "editor.renderWhitespace": "trailing",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
+    "terminal.integrated.fontSize": 18,
     "workbench.startupEditor": "none",
     "workbench.editor.empty.hint": "hidden",
     "workbench.colorTheme": "textmate.rstheme",

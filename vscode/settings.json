@@ -17,7 +17,7 @@
     "editor.unicodeHighlight.nonBasicASCII": true,
     "editor.renderWhitespace": "trailing",
     "diffEditor.ignoreTrimWhitespace": false,
-    "terminal.integrated.fontFamily": "'JetBrains Mono', monospace",
+    "terminal.integrated.fontFamily": "'Twilio Sans Mono', monospace",
     "terminal.integrated.fontSize": 18,
     "workbench.startupEditor": "none",
     "workbench.editor.empty.hint": "hidden",

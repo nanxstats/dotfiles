@@ -23,7 +23,7 @@
     "workbench.editor.empty.hint": "hidden",
     "window.autoDetectColorScheme": true,
     "workbench.preferredLightColorTheme": "textmate.rstheme",
-    "workbench.preferredDarkColorTheme": "GitHub Dark Dimmed",
+    "workbench.preferredDarkColorTheme": "Ayu Mirage Bordered",
     "update.mode": "none",
     "telemetry.telemetryLevel": "off"
 }

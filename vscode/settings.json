@@ -21,7 +21,9 @@
     "terminal.integrated.fontSize": 18,
     "workbench.startupEditor": "none",
     "workbench.editor.empty.hint": "hidden",
-    "workbench.colorTheme": "textmate.rstheme",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "textmate.rstheme",
+    "workbench.preferredDarkColorTheme": "GitHub Dark Dimmed",
     "update.mode": "none",
     "telemetry.telemetryLevel": "off"
 }

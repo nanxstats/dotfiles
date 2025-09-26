@@ -1,12 +1,13 @@
 {
     "editor.fontSize": 20,
-    "editor.fontFamily": "'Berkeley Mono', 'Cascadia Code', 'Fira Code', 'Geist Mono', 'Google Sans Code', Hasklig, 'IBM Plex Mono Text', Inconsolata, 'Iosevka Extended', 'JetBrains Mono', 'Ligalex Mono', 'Monaspace Argon', 'MonoLisa Variable', 'SF Mono', 'Source Code Pro', 'TheSansMono Office', 'Twilio Sans Mono Retina', 'Zed Plex Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'Berkeley Mono', 'Cascadia Code', 'Fira Code', 'Geist Mono', 'Google Sans Code', Hasklig, 'IBM Plex Mono Text', Inconsolata, 'Iosevka Extended', 'JetBrains Mono', 'Ligalex Mono', 'Maple Mono', 'Monaspace Argon', 'MonoLisa Variable', 'SF Mono', 'Source Code Pro', 'TheSansMono Office', 'Twilio Sans Mono Retina', 'Zed Plex Mono', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": "'calt', 'liga'", // All others supporting coding ligatures
     // "editor.fontLigatures": "'calt', 'liga', 'lnum', 'zero', 'cv01'", // TheSansMono
     // "editor.fontLigatures": "'calt', 'liga', 'cv02', 'ss03'", // Fira Code
     // "editor.fontLigatures": "'calt', 'liga', 'ss03', 'ss04'", // Geist Mono
     // "editor.fontLigatures": "'calt', 'liga', 'ss01'", // Google Sans Code
     // "editor.fontLigatures": "'calt', 'liga', 'ss02', 'ss03'", // IBM Plex Mono Text, Ligalex Mono (Text), Zed Plex Mono (Text)
+    // "editor.fontLigatures": "'calt', 'liga', 'cv01', 'cv02'", // Maple Mono
     // "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss05', 'ss07'", // Monaspace Argon
     "editor.rulers": [
         80

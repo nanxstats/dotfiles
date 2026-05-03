@@ -28,5 +28,6 @@
     "workbench.preferredLightColorTheme": "textmate.rstheme",
     "workbench.preferredDarkColorTheme": "Ayu Mirage Bordered",
     "update.mode": "none",
-    "telemetry.telemetryLevel": "off"
+    "telemetry.telemetryLevel": "off",
+    "git.addAICoAuthor": "off"
 }

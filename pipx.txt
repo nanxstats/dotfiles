@@ -1,2 +1,4 @@
 fontmake
+gftools
 grip
+pkglite

@@ -4,7 +4,7 @@
     "editor.fontLigatures": "'calt', 'liga'", // All others supporting coding ligatures
     // "editor.fontVariations": "'wght' 450", // Berkeley Mono Variable
     // "editor.fontLigatures": "'calt', 'liga', 'lnum', 'zero', 'cv01'", // TheSansMono
-    // "editor.fontLigatures": "'calt', 'liga', 'cv02', 'ss03'", // Fira Code
+    // "editor.fontLigatures": "'calt', 'liga', 'zero', 'cv02', 'cv10', 'ss03', 'ss05'", // Fira Code
     // "editor.fontLigatures": "'calt', 'liga', 'ss03', 'ss04'", // Geist Mono
     // "editor.fontLigatures": "'calt', 'liga', 'zero','cv02', 'cv15'", // Lilex
     // "editor.fontLigatures": "'calt', 'liga', 'cv01', 'cv02'", // Maple Mono

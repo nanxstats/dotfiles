@@ -1,8 +1,9 @@
 {
     "editor.fontSize": 20,
-    "editor.fontFamily": "'Anthrosevka Mono', 'Berkeley Mono Variable', 'Cascadia Code', 'Fira Code', 'Geist Mono', Hasklig, Inconsolata, 'Iosevka Extended', 'JetBrains Mono', 'Liga DM Mono', 'Liga Noto Sans Mono', 'Liga Paper Mono', 'Liga TheSansMonoOffice', 'Lilex', 'Maple Mono', 'Monaspace Argon', 'MonoLisa Variable', 'SF Mono', 'Source Code Pro', 'TheSansMono Office', 'Twilio Sans Mono Retina', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "'Anthrosevka Mono', 'Berkeley Mono Variable', 'Cascadia Code', 'Fira Code', 'Geist Mono', Hasklig, Inconsolata, 'Iosevka Extended', 'JetBrains Mono', 'Liga DM Mono', 'Liga Noto Sans Mono', 'Liga Paper Mono', 'Liga TheSansMonoOffice', 'Lilex', 'Maple Mono', 'Monaspace Argon', 'MonoLisaCode', 'SF Mono', 'Source Code Pro', 'TheSansMono Office', 'Twilio Sans Mono Retina', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": "'calt', 'liga'", // All others supporting coding ligatures
     // "editor.fontVariations": "'wght' 450", // Berkeley Mono Variable
+    // "editor.fontLigatures": "'calt', 'liga', 'ss03', 'ss06', 'cv01', 'cv02', 'cv03', 'cv04', 'cv05', 'cv08', 'cv09'", // MonoLisaCode
     // "editor.fontLigatures": "'calt', 'liga', 'lnum', 'zero', 'cv01'", // TheSansMono
     // "editor.fontLigatures": "'calt', 'liga', 'zero', 'cv02', 'cv10', 'ss03', 'ss05'", // Fira Code
     // "editor.fontLigatures": "'calt', 'liga', 'ss03', 'ss04'", // Geist Mono

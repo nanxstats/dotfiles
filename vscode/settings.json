@@ -19,7 +19,7 @@
     "editor.unicodeHighlight.nonBasicASCII": true,
     "editor.renderWhitespace": "trailing",
     "diffEditor.ignoreTrimWhitespace": false,
-    "terminal.integrated.fontFamily": "'Liga Share Tech Mono', monospace",
+    "terminal.integrated.fontFamily": "'Twilio Sans Mono",
     "terminal.integrated.fontLigatures.enabled": true,
     "terminal.integrated.fontSize": 18,
     "workbench.startupEditor": "none",
